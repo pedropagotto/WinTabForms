@@ -1,0 +1,6 @@
+.vs/
+Fakes/Antlr3.Runtime.fakes
+Fakes/EntityFramework.fakes
+packages/
+WindowsFormsApp1/bin/
+WindowsFormsApp1/obj/
